@@ -1,10 +1,11 @@
+
 /*
   Twitter.cpp - Arduino library to Post messages to Twitter using OAuth.
   Copyright (c) NeoCat 2010-2011. All right reserved.
-  
+
   This library is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
-  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  */
 
 // ver1.2 - Use <string.h>
