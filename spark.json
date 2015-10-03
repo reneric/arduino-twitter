@@ -1,0 +1,7 @@
+{
+  "name": "Twitter",
+  "author": "Ren",
+  "license": "MIT",
+  "version": "0.0.4",
+  "description": "A work in progress Twitter Library for the Spark Core and Arduino."
+}
